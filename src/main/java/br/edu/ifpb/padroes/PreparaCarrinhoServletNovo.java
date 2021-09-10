@@ -10,7 +10,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
-@WebServlet(value = "/carrinho")
+@WebServlet(value = "/carrinho-old2")
 public class PreparaCarrinhoServletNovo extends HttpServlet {
 
     @Override
